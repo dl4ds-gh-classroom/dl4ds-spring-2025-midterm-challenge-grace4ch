@@ -15,3 +15,8 @@ experiments/
 # hidden files
 .DS_Store
 .vscode/
+ds542env/
+env3/
+myenv/
+__pycache__/
+*.pyc

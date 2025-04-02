@@ -113,4 +113,3 @@ def create_ood_df(all_predictions):
 
     submission_df_ood = pd.DataFrame({'id': ids_ood, 'label': all_predictions})
     return submission_df_ood
-
